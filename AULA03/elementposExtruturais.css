@@ -1,0 +1,30 @@
+/* 
+font-weight - Negrito porém n tem import.
+line-height
+text-aline -  Alinhamento de texto
+text-shadow
+text-indent
+filter - Op.
+*/
+
+span{
+    /* font-weight: 500; */
+    font-weight: bold;
+    text-align: right;
+}
+
+strong{
+font-weight: 100;
+}
+
+article{
+    font-style: italic;
+    color: rgb(108, 37, 174);
+    text-align: right;
+    text-indent: 50px;
+}
+
+p{
+    text-align:left;
+    line-height: 250%;
+}

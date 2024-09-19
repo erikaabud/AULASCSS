@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h1:hover{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body:empty

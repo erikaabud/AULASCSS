@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 62,5%;
+}
+
+header{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    text-decoration: none;
+color: rgb(255, 255, 255);
+margin: 1.5em;
+font-size: 1.8rem;
+
+}
+.coca1{
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+
+.coca2{
+    display: flex;
+    justify-content: center;
+}
+ body{
+    background-color: rgb(255, 255, 255);
+
+ }
+
+.coca5{
+    margin: 5px;
+    border: solid 1px;
+    color: rgb(0, 0, 0);
+}
+
+.coca6{
+    color: red;
+}
+
+.nav1{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   
+}
+
+.coca{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin: 1.5em;
+    font-size: 1.8rem;
+}

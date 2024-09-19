@@ -1,0 +1,38 @@
+*{
+font-size: 20px;
+}
+
+
+
+ {
+    display: none;
+    font-size: 20px;
+}
+
+/* font-size: 2cm;- Unidade de medisda absoluta*/
+/* font-size: 2in; - Unidade de medida absoluta */
+h2 {
+    display: none;
+    font-size: 22.5px;
+}
+p{
+    display: none  ;
+}
+
+/* 2em - Valor numérico com unidade, seu tamanho está
+relacionado ao tamanho do elemento superior
+
+2rem - Valor numérico com unidade, seu tamanho está
+relacionado ao elemento root,*/
+
+ul {
+    list-style: none;
+    /* Remove o marcador*/
+    font-size: 2em;
+    /* 20px*2 */
+}
+
+li {
+
+font-size: 3em; /* 30px * 3 = 99px*/ 
+}

@@ -1,0 +1,22 @@
+div{
+    width: 250px;
+    height: 250px;
+    border: solid 1px;
+    margin: 5px;
+}
+
+#box1{
+    padding: 10px;
+    border-color: blueviolet;
+    border-style: dotted;
+    border-width: 5px;
+    box-sizing: border-box;
+}
+
+#box2{
+    padding: 10px;
+    border-color: rgb(58, 43, 226);
+    border-style: dotted;
+    border-width: 5px;
+    box-sizing: content-box;
+}
